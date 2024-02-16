@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Help Instance"
+                 start-page="Empty-MD-Topic.md">
+
+    <toc-element topic="Empty-MD-Topic.md"/>
+    <toc-element topic="Ejercicio1.md"/>
+    <toc-element topic="Ejercicio7.md"/>
+    <toc-element topic="Ejercicio8.md"/>
+    <toc-element topic="Ejercicio-5.md"/>
+    <toc-element topic="Ejercicio-9.md"/>
+    <toc-element topic="Ejercicio-10.md"/>
+    <toc-element topic="Ejercicio11.md"/>
+    <toc-element topic="Ejercicio-6.md"/>
+    <toc-element topic="Ejercicio-3.md"/>
+    <toc-element topic="Ejercicio-2.md"/>
+</instance-profile>
